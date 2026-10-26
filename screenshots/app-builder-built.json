@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "FABLE ON ANALOS",
+      "hasCanvas": false,
+      "bodyTextLen": 5477,
+      "bodyTextHash": "20ca36e13615fb4a9fdf284a217735708c37cf6d39601a15431633545913b517",
+      "bodyTextPrefix": "FABLE Story Vision Pillars Chart Join Live chart FABLE ON ANALOS",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "FABLE ON ANALOS",
+      "hasCanvas": false,
+      "bodyTextLen": 5460,
+      "bodyTextHash": "2d5f59d074b91f8d96081514a0914f0ded299496fccb065611ae73ba02e8cdf8",
+      "bodyTextPrefix": "FABLE FABLE ON ANALOS Every idea deserves the chance to become s",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

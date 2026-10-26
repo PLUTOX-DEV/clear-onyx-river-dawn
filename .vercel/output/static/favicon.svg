@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Fable">
+  <defs>
+    <linearGradient id="fv" x1="6" y1="4" x2="26" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4AD4FF"/>
+      <stop offset="1" stop-color="#B06BFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="#050714"/>
+  <path fill="url(#fv)" d="M9.2 4.8h14v3.7H13.4v2.5h8.2v3.3h-8.2v4.5H9.2V4.8z"/>
+  <path fill="#4AD4FF" d="M5.6 21.4 16 18.2v5.2L5.6 26.6z"/>
+  <path fill="#B06BFF" d="M26.4 21.4 16 18.2v5.2l10.4 3.2z"/>
+  <path fill="#EEF3FF" d="M15.15 18.4h1.7v8.4h-1.7z"/>
+</svg>
